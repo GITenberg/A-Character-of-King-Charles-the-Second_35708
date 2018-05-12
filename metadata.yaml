@@ -1,0 +1,32 @@
+_repo: A-Character-of-King-Charles-the-Second_35708
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Halifax, George Savile, Marquis of
+    aliases:
+    - Halifax, Marquess of (George Savile)
+    - Savile, George, Marquis of Halifax
+    birthdate: 1633
+    deathdate: 1695
+    gutenberg_agent_id: '37849'
+    url: http://www.gutenberg.org/2009/agents/37849
+    wikipedia: http://en.wikipedia.org/wiki/George_Savile,_1st_Marquess_of_Halifax
+description: ''
+gutenberg_issued: '2011-03-29'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '35708'
+  lccn: '03024017'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'DA'
+- !lcsh 'Charles II, King of England, 1630-1685 -- Early works to 1800'
+title: "A Character of King Charles the Second\r\nAnd Political, Moral and Miscellaneous\
+  \ Thoughts and Reflections"
+url: http://www.gutenberg.org/ebooks/35708
